@@ -66,7 +66,7 @@ Access to the project's folder
 
 Finally, run the Python file in the terminal / console.
 
-	../Python-GuessTheNumberGame/guessTheNumber
+	../Python-GuessTheNumberGame/guessTheNumber.py
 	
 
 **Thank you for checking out our work!**
