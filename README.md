@@ -25,32 +25,32 @@ Use your IDE of choice with Anaconda's env.
 ## Demo
 The game starts by asking the user's name
 
-<img src="./images/1.jpg" alt="Python App" width="200">
+<img src="./images/1.jpg" alt="Python App" width="500">
 
 
 Then, it asks if the user wants to play the game
 
-<img src="./images/2.jpg" alt="Python App" width="200">
+<img src="./images/2.jpg" alt="Python App" width="500">
 
 
 If the user doesn't want to play the game, the game script ends
 
-<img src="./images/3.jpg" alt="Python App" width="200">
+<img src="./images/3.jpg" alt="Python App" width="500">
 
 
 If the user does want to play the game, the game script continues while looping through the script and checking for condition win == false or win == true.
 
-<img src="./images/4.jpg" alt="Python App" width="200">
+<img src="./images/4.jpg" alt="Python App" width="500">
 
 
 If the user tries to input an incorrect value type, the game will let the user know
 
-<img src="./images/5.jpg" alt="Python App" width="200">
+<img src="./images/5.jpg" alt="Python App" width="500">
 
 
 Otherwise, it will continue running until win == true
 
-<img src="./images/6.jpg" alt="Python App" width="200">
+<img src="./images/6.jpg" alt="Python App" width="500">
 
 
 
